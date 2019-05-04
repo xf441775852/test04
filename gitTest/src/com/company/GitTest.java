@@ -7,4 +7,8 @@ public class GitTest {
     public void test(){
         System.out.println("修改");
     }
+
+    public void update(){
+        System.out.println("修改");
+    }
 }
